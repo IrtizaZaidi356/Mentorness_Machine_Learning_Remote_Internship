@@ -1,7 +1,7 @@
 # **Mentorness | Machine Learning | Remote Internship**
 
 ### **Project No# 01:- Disease Prediction:**
-🚀 Excited to share our recent project on Predictive Modeling for Disease Diagnosis! 🚀
+
 📊 **Objective:**
      -  To develop a predictive model that accurately classifies individuals into diseased or non-diseased categories based on health attributes. This tool aims to support healthcare providers in disease diagnosis and prognosis.
 
